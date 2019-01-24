@@ -1,5 +1,5 @@
 # Intro
-This repository contains implementation of Unet with Resnet-18 and was deployed on HRF dataset which is the retinasegmentation dataset
+This repository contains implementation of Unet with Resnet-18 and was deployed on HRF dataset which is the retina vessel segmentation dataset
 
 
 HRF dataset can be found here: https://www5.cs.fau.de/research/data/fundus-images/
